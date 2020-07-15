@@ -136,6 +136,7 @@ Here is an example of the input:
   {name: 'Tote bag', price: 15}
 ];
 
+
 This data could be sorted by name or price.
 ------------------------------------------------------------------------------------------------ */
 
